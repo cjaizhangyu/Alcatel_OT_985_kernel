@@ -1,0 +1,4 @@
+kernel/drivers/staging/ramzswap/ramzswap.ko
+kernel/../mediatek/source/kernel/drivers/gpu/pvr/pvrsrvkm.ko
+kernel/../mediatek/source/kernel/drivers/gpu/pvr/mtklfb.ko
+kernel/lib/lzo/lzo_compress.ko

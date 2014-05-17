@@ -1,0 +1,1 @@
+cmd_../mediatek/source/kernel/drivers/gpu/pvr/pvrsrvkm.ko := /home/elvis/arm-eabi-4.4.3/bin/arm-eabi-ld.bfd -EL -r  -T /home/elvis/OT_985/kernel/scripts/module-common.lds --build-id -o ../mediatek/source/kernel/drivers/gpu/pvr/pvrsrvkm.ko ../mediatek/source/kernel/drivers/gpu/pvr/pvrsrvkm.o ../mediatek/source/kernel/drivers/gpu/pvr/pvrsrvkm.mod.o

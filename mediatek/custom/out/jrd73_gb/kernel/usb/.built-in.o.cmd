@@ -1,0 +1,1 @@
+cmd_../mediatek/custom/out/jrd73_gb/kernel/usb/built-in.o :=  /home/elvis/arm-eabi-4.4.3/bin/arm-eabi-ld.bfd -EL    -r -o ../mediatek/custom/out/jrd73_gb/kernel/usb/built-in.o ../mediatek/custom/out/jrd73_gb/kernel/usb/mtk_usb_custom.o 

@@ -1,0 +1,1 @@
+cmd_drivers/base/power/built-in.o :=  /home/elvis/arm-eabi-4.4.3/bin/arm-eabi-ld.bfd -EL    -r -o drivers/base/power/built-in.o drivers/base/power/sysfs.o drivers/base/power/main.o drivers/base/power/generic_ops.o 

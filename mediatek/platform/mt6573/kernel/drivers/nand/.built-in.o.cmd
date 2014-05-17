@@ -1,0 +1,1 @@
+cmd_../mediatek/platform/mt6573/kernel/drivers/nand/built-in.o :=  /home/elvis/arm-eabi-4.4.3/bin/arm-eabi-ld.bfd -EL    -r -o ../mediatek/platform/mt6573/kernel/drivers/nand/built-in.o ../mediatek/platform/mt6573/kernel/drivers/nand/nand.o ../mediatek/platform/mt6573/kernel/drivers/nand/bmt.o ../mediatek/platform/mt6573/kernel/drivers/nand/partition_mt.o 

@@ -1,0 +1,1 @@
+cmd_../mediatek/platform/mt6573/kernel/drivers/g2d/g2d_driver.o := /home/elvis/arm-eabi-4.4.3/bin/arm-eabi-ld.bfd -EL    -r -o ../mediatek/platform/mt6573/kernel/drivers/g2d/g2d_driver.o ../mediatek/platform/mt6573/kernel/drivers/g2d/g2d_6573_func.o ../mediatek/platform/mt6573/kernel/drivers/g2d/g2d_drv.o 

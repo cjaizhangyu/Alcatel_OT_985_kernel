@@ -1,0 +1,1 @@
+cmd_../mediatek/source/kernel/drivers/gpu/built-in.o :=  rm -f ../mediatek/source/kernel/drivers/gpu/built-in.o; /home/elvis/arm-eabi-4.4.3/bin/arm-eabi-ar rcs ../mediatek/source/kernel/drivers/gpu/built-in.o

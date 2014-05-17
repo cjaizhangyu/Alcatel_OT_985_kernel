@@ -1,0 +1,1 @@
+cmd_../mediatek/source/kernel/built-in.o :=  /home/elvis/arm-eabi-4.4.3/bin/arm-eabi-ld.bfd -EL    -r -o ../mediatek/source/kernel/built-in.o ../mediatek/source/kernel/kernel/built-in.o ../mediatek/source/kernel/drivers/built-in.o 

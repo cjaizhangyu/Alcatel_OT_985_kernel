@@ -1,0 +1,1 @@
+cmd_drivers/staging/ramzswap/ramzswap.ko := /home/elvis/arm-eabi-4.4.3/bin/arm-eabi-ld.bfd -EL -r  -T /home/elvis/OT_985/kernel/scripts/module-common.lds --build-id -o drivers/staging/ramzswap/ramzswap.ko drivers/staging/ramzswap/ramzswap.o drivers/staging/ramzswap/ramzswap.mod.o

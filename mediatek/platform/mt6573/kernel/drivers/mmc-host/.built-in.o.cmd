@@ -1,0 +1,1 @@
+cmd_../mediatek/platform/mt6573/kernel/drivers/mmc-host/built-in.o :=  /home/elvis/arm-eabi-4.4.3/bin/arm-eabi-ld.bfd -EL    -r -o ../mediatek/platform/mt6573/kernel/drivers/mmc-host/built-in.o ../mediatek/platform/mt6573/kernel/drivers/mmc-host/sd.o ../mediatek/platform/mt6573/kernel/drivers/mmc-host/mt6573_sdc.o 

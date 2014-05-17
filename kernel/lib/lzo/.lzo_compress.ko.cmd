@@ -1,0 +1,1 @@
+cmd_lib/lzo/lzo_compress.ko := /home/elvis/arm-eabi-4.4.3/bin/arm-eabi-ld.bfd -EL -r  -T /home/elvis/OT_985/kernel/scripts/module-common.lds --build-id -o lib/lzo/lzo_compress.ko lib/lzo/lzo_compress.o lib/lzo/lzo_compress.mod.o
